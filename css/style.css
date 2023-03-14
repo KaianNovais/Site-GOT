@@ -1,0 +1,14 @@
+@import "nav.css";
+@import "imgPrincipal.css";
+@import "secaoImagens.css";
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 24px;
+}
+
